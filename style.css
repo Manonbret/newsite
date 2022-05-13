@@ -1,0 +1,45 @@
+body 
+	{background-color: #C6E0FB;
+	padding: 20px;;
+	font-family: 'Quicksand', sans-serif;}
+
+h1 
+	{color: #023C8D;
+	text-align: center;}
+
+.imagefoil  
+	{width: 25%;
+	height: 350px;
+	object-fit: cover;}
+
+.taillemoyenne 
+	{width: 25%;
+	height: 300px;
+	Object-fit : cover}
+
+.elements-center 
+	{text-align: center;}
+
+div 	
+	{background-color: #EBFDFF;
+	padding-right: 10px
+	padding-left: 10px
+	border: 100px color:  #023C8D;}
+
+.element-aligned {
+	display: flex;
+	justify-content: space-around;
+}
+
+.navigation-aligned {
+	display: flex;
+	justify-content: space-around;
+padding: 15px;}
+
+a {color:  #E55381
+text-decoration : none }
+
+a:hover {
+	color:  #EFA9AE;
+	font-size: 20px;
+}
